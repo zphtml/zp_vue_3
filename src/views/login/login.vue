@@ -2,7 +2,7 @@
 <template>
 	<div class="login-box">
 		<div class="form-box">
-			<div class="logo">灵犀广告管理系统</div>
+			<div class="logo">灵犀广告管理系统2</div>
 			<a-form :model="form">
 				<a-form-item>
 					<a-input v-model:value="form.username" placeholder="Username">
