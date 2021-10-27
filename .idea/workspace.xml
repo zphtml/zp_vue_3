@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55860d68-adbe-41b6-8cab-71996b4b0d26" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/views/dashboard/dashboard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/dashboard/dashboard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -65,6 +67,7 @@
       <workItem from="1623376523072" duration="1628000" />
       <workItem from="1623378182583" duration="16474000" />
       <workItem from="1635236468985" duration="11000" />
+      <workItem from="1635322812622" duration="799000" />
     </task>
     <servers />
   </component>
@@ -77,13 +80,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1623377903300">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1635322819220">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1623377903300" />
-    <state x="457" y="167" width="755" height="548" key="find.popup" timestamp="1623394798005">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="457" y="167" width="755" height="548" key="find.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1623394798005" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635322819220" />
   </component>
 </project>
